@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Olawale Adesoye  
-🚀 **Smart Contract Developer | Blockchain Engineer | Open-Source Builder**
+🚀 **Software Developer | Smart Contract Developer | Blockchain Engineer | Open-Source Builder**
 
-I'm a passionate blockchain engineer focused on **smart contract architecture**, **DeFi systems**, and **open-source development**.  
+I'm a passionate software developer & blockchain engineer focused on **smart contract architecture**, **DeFi systems**, and **open-source development**.  
 I enjoy building decentralized solutions that empower users and redefine financial systems.
 
 ---
