@@ -102,19 +102,6 @@ DM me or open an issue — let’s create something decentralized and impactful 
 
 <!-- 🔥 Animated Blockchain Dev Stack Banner -->
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="140" viewBox="0 0 1050 140">
-  <style>
-    .icon {
-      font-family: 'Segoe UI Emoji', sans-serif;
-      font-weight: 600;
-      font-size: 22px;
-      opacity: 0;
-      animation: fade 12s infinite;
-    }
-    @keyframes fade {
-      0%, 100% { opacity: 0; transform: translateY(10px) scale(0.95); }
-      10%, 90% { opacity: 1; transform: translateY(0) scale(1); }
-    }
-  </style>
 
   <!-- Row 1: Blockchain Core -->
   <text x="60"  y="50" fill="#29b6f6" class="icon" style="animation-delay:0s;">💎 Solidity</text>
@@ -128,10 +115,12 @@ DM me or open an issue — let’s create something decentralized and impactful 
   <text x="210" y="90" fill="#61dafb" class="icon" style="animation-delay:4.8s;">⚛️ React.js</text>
   <text x="370" y="90" fill="#3178c6" class="icon" style="animation-delay:5.6s;">🔷 TypeScript</text>
   <text x="530" y="90" fill="#e0234e" class="icon" style="animation-delay:6.4s;">🚀 NestJS</text>
-  <text x="700" y="90" fill="#3776ab" class="icon" style="animation-delay:7.2s;">🐍 Python</text>
+  <text x="60"  y="130" fill="#092e20" class="icon" style="animation-delay:8s;">🧩 Django</text>
+  
 
   <!-- Row 3: Backend & Databases -->
-  <text x="60"  y="130" fill="#092e20" class="icon" style="animation-delay:8s;">🧩 Django</text>
+  <text x="700" y="90" fill="#3776ab" class="icon" style="animation-delay:7.2s;">🐍 Python</text>
+  <text x="830" y="90" fill="#83cd29" class="icon" style="animation-delay:8s;">🟢 Node.js</text>
   <text x="230" y="130" fill="#336791" class="icon" style="animation-delay:8.8s;">🐘 PostgreSQL</text>
   <text x="420" y="130" fill="#4db33d" class="icon" style="animation-delay:9.6s;">🍃 MongoDB</text>
   <text x="590" y="130" fill="#2ecc71" class="icon" style="animation-delay:10.4s;">🪙 Blockchain Dev</text>
